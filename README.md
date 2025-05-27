@@ -66,7 +66,6 @@ Business Systems Analysis | Data Analytics | Team Collaboration | Technical Writ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertpatel)  
 📍 Raleigh, NC  
-💬 DM-friendly for internships, collaborations, or just to chat about AI + business strategy!
 
 ---
 
