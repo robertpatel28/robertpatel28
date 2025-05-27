@@ -66,9 +66,8 @@ I'm a Business Administration major at NC State with a concentration in Informat
 **Business-Technical Skills**:  
 `UI/UX Design` | `Stakeholder Communication` | `Technical Documentation` | `Agile Project Management` | `Cross-Functional Teamwork`
 
-
 **Soft Skills**:  
-Business Systems Analysis | Data Analytics | Team Collaboration | Technical Writing | Process Optimization
+`Business Systems Analysis` | `Data Analytics` | `Team Collaboration` | `Technical Writing` | `Process Optimization`
 
 ---
 
