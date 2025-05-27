@@ -57,6 +57,16 @@ I'm a Business Administration major at NC State with a concentration in Informat
 **Frameworks & Concepts**:  
 `MVC` | `OOP` | `Multi-Agent Systems` | `RAG Framework` | `Jira` | `Agile` | `PyQt6`
 
+**Technologies**:  
+Azure Cognitive Search | Azure Blob Storage | VS Code | Jupyter Notebook | REST APIs | GitHub Workflows
+
+**Programming Concepts**:  
+Retrieval-Augmented Generation (RAG) | Prompt Engineering | Semantic Search | MVC | Design Patterns (Singleton, Observer) | Multi-Agent Systems
+
+**Business-Technical Skills**:  
+UI/UX Design | Stakeholder Communication | Technical Documentation | Agile Project Management | Cross-Functional Teamwork
+
+
 **Soft Skills**:  
 Business Systems Analysis | Data Analytics | Team Collaboration | Technical Writing | Process Optimization
 
