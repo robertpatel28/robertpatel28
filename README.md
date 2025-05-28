@@ -1,73 +1,112 @@
-# Hey, I'm Robert!  
-🎓 Business + IT @ NC State | 🤖 AI Developer | 💻 Full-Stack + Backend Focus | 🔗 Bridging Tech & Strategy
+# Hey, I'm Robert 👋  
+🎓 Business + IT @ NC State | 🤖 AI & Backend Developer | 💻 Full-Stack Capable | 🔗 Bridging Tech & Strategy
 
 ---
 
-## 💼 About Me  
-I'm a Business Administration major at NC State with a concentration in Information Technology and a minor in Computer Programming. I thrive at the intersection of **business systems, AI**, and **software development** — always looking to build solutions that are not just functional but strategic.
+## 💼 About Me
+
+I'm currently pursuing a B.S. in Business Administration with a concentration in Information Technology and a minor in Computer Programming at **NC State University**.  
+My work lives at the intersection of **AI, backend systems, and business strategy**, and I thrive on turning real-world problems into smart, scalable software.
 
 ---
 
-## 👨‍💻 Notable Projects
+## 🚀 Highlight Projects
 
-### 🤖 AI & Automation
-- **[AI-Third-Party-Risk-Evaluator](https://github.com/robertpatel28/AI-Third-Party-Risk-Evaluator)**  
-  Automates risk evaluation for third-party vendors using Azure OpenAI, RAG, and multi-agent pipelines.
-
-- **[AI-Test-Grader](https://github.com/robertpatel28/AI-Test-Grader)**  
-  Auto-grades student responses via Azure OpenAI, Cognitive Search, and Blob Storage in a Jupyter-based pipeline.
+- **[AI-Third-Party-Risk-Evaluator](https://github.com/robertpatel28/AI-Third-Party-Risk-Evaluator)** — Multi-agent AI system using Azure OpenAI + RAG to automate vendor risk assessments  
+- **[AI-Test-Grader](https://github.com/robertpatel28/AI-Test-Grader)** — GPT-based auto-grader with semantic search over course materials  
+- **[Student-Grade-Manager](https://github.com/robertpatel28/Student-Grade-Manager)** — PyQt6 desktop app to store/manage student grades  
+- **[Book-Sales-Management-System](https://github.com/robertpatel28/Book-Sales-Management-System)** — Inventory logic system built with custom Python structures  
 
 ---
 
-### 🖥️ Desktop Applications
-- **[Student-Grade-Manager](https://github.com/robertpatel28/Student-Grade-Manager)**  
-  PyQt6 app to store, manage, and update student performance with a GUI and SQL backend.
-
-- **[Book-Sales-Management-System](https://github.com/robertpatel28/Book-Sales-Management-System)**  
-  Simulates a sales database using custom data structures, focusing on backend logic and file I/O.
+## 🧠 Projects & Skills Breakdown
 
 ---
 
-### 🧪 Java Projects (Eclipse / JUnit)
-- **Employee Management App**  
-  Built a Singleton-driven job application platform using enums, state machines, and validation systems.
-
-- **IT Ticket Manager**  
-  Designed a modular ticketing system using custom data structures and OOP patterns like Observer.
+### 🤖 AI-Third-Party-Risk-Evaluator  
+**Goal**: Automate enterprise risk assessment using a multi-agent AI system with Azure OpenAI and RAG.  
+**Skills Applied**:  
+- `Multi-Agent System Architecture`  
+- `Retrieval-Augmented Generation (RAG)`  
+- `Azure Cognitive Search` + `Blob Storage`  
+- `Prompt Engineering` & `NLP`  
+- `Semantic Search`  
+- `Python (async, orchestration)`  
+- `Business Systems Analysis`
 
 ---
 
-### 🧠 Data Projects
-- **SQL Data Extraction Project**  
-  Used complex SQL joins and regex filters to generate actionable insights from city/country datasets.
+### 🧠 AI-Test-Grader  
+**Goal**: Automatically grade student responses using GPT and course material as context.  
+**Skills Applied**:  
+- `RAG framework` & `GPT NLP evaluation`  
+- `Azure OpenAI` + `Cognitive Search`  
+- `Validation agents` for grading consistency  
+- `Jupyter Notebook prototyping`  
+- `Blob indexing` & `semantic content grading`
+
+---
+
+### 🖥️ Student Grade Manager (PyQt6 App)  
+**Goal**: Desktop tool to manage student grades using Python and SQL.  
+**Skills Applied**:  
+- `GUI Design` with `PyQt6`  
+- `SQL` + `MySQL` backend operations  
+- `Input validation` & `error handling`  
+- `OOP with UI-focused logic`  
+- `Usability` + `Documentation`
+
+---
+
+### 📦 Book Sales Management System  
+**Goal**: Simulate book sale transactions with backend logic.  
+**Skills Applied**:  
+- `Custom Data Structures`  
+- `Inventory Management Logic`  
+- `File I/O` & `Exception Handling`  
+- `Object-Oriented Backend Design`
+
+---
+
+### 💼 Employee Management App (Java / JUnit)  
+**Goal**: Simulate job position lifecycle using enums and state transitions.  
+**Skills Applied**:  
+- `Java` & `JUnit Testing`  
+- `Singleton` & `Command Design Patterns`  
+- `Finite State Machines`  
+- `Position Management Classes`  
+- `File I/O for persistence`
+
+---
+
+### 🧪 IT Ticket Manager (Java Team Project)  
+**Goal**: Create a category-driven ticketing system.  
+**Skills Applied**:  
+- `Observer Pattern`  
+- `Custom Data Structures (SortedList, SwapList)`  
+- `Interfaces` & `Inheritance`  
+- `Team Collaboration`  
+- `JUnit Testing` + `Validation`
+
+---
+
+## 🧰 Tools & Technologies
+
+**Languages**:  
+`Python` • `Java` • `SQL` • `MySQL` • `NoSQL` • `Bash` • `Jupyter` • `HTML/CSS` *(basic)*
+
+**Frameworks & Concepts**:  
+`PyQt6` • `Azure OpenAI` • `RAG` • `MVC` • `Multi-Agent Systems` • `REST APIs` • `JUnit` • `Semantic Search` • `Prompt Engineering`
+
+**Tools**:  
+`Azure Cognitive Search` • `Azure Blob Storage` • `VS Code` • `Eclipse` • `Git` • `GitHub Projects` • `Jira`
 
 ---
 
 ## 📜 Certifications
-- 🏅 **Microsoft Azure AI-900**  
-- 🧠 **Truist Emerging Leadership Certification**
 
----
-
-## 🛠️ Technical Skills
-
-**Languages/Tech**:  
-`Python` | `Java` | `SQL` | `MySQL` | `NoSQL` | `Git` | `JUnit` | `Azure AI Studio`
-
-**Frameworks & Concepts**:  
-`MVC` | `OOP` | `Multi-Agent Systems` | `RAG Framework` | `Jira` | `Agile` | `PyQt6`
-
-**Technologies**:  
-`Azure Cognitive Search` | `Azure Blob Storage` | `VS Code` | `Jupyter Notebook`  | `REST APIs`  | `GitHub Workflows`
-
-**Programming Concepts**:  
-`Retrieval-Augmented Generation (RAG)` | `Prompt Engineering` | `Semantic Search` | `MVC` | `Design Patterns (Singleton, Observer)` | `Multi-Agent Systems`
-
-**Business-Technical Skills**:  
-`UI/UX Design` | `Stakeholder Communication` | `Technical Documentation` | `Agile Project Management` | `Cross-Functional Teamwork`
-
-**Soft Skills**:  
-`Business Systems Analysis` | `Data Analytics` | `Team Collaboration` | `Technical Writing` | `Process Optimization`
+- 🧠 `Microsoft Azure AI-900` *(2025)*  
+- 🧭 `Truist Emerging Leadership Certification` *(2024)*
 
 ---
 
