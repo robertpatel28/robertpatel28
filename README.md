@@ -104,6 +104,20 @@ Focused on modular design, inheritance, and robust error handling in a team deve
 
 ---
 
+## 🎓 Academic Work @ NC State
+
+### 🛠️ [BUS 444 – System Design & Implementation](https://github.com/robertpatel28/PyQt-Dev-Work)  
+Hands-on system development coursework from BUS 444 at NC State.  
+This repo showcases:
+- 🧩 PyQt6 GUI components and prototypes  
+- 🧠 Mockups and wireframes for student tools  
+- 🗂️ Applied research from systems design methodology  
+- 💬 Visual flow planning and component testing
+
+Project focus: **designing and iterating on user-friendly applications** using Python and Qt, integrating business-driven functionality with clean technical design.
+
+--
+
 ## 🧰 Tools & Technologies
 
 **Languages**:  
