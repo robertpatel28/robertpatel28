@@ -24,7 +24,10 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 🤖 AI-Third-Party-Risk-Evaluator  
-**Goal**: Automate enterprise risk assessment using a multi-agent AI system with Azure OpenAI and RAG.  
+A multi-agent AI pipeline that evaluates third-party IT risk based on questionnaire responses.  
+Built using Azure OpenAI, Cognitive Search, and Blob Storage, the system parses unstructured form data, retrieves relevant policies, and generates a risk report using prompt-engineered GPT responses.  
+This project highlights enterprise-level automation and AI integration in a real-world risk analysis setting.
+
 **Skills Applied**:  
 - `Multi-Agent System Architecture`  
 - `Retrieval-Augmented Generation (RAG)`  
@@ -37,7 +40,10 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 🧠 AI-Test-Grader  
-**Goal**: Automatically grade student responses using GPT and course material as context.  
+A GPT-powered application that grades student exam responses using contextual course content.  
+Implemented in Jupyter using Azure Cognitive Search and OpenAI APIs, it semantically matches answers to indexed documents and generates explainable, standardized feedback.  
+Ideal for use in academic settings to reduce manual grading load and improve consistency.
+
 **Skills Applied**:  
 - `RAG framework` & `GPT NLP evaluation`  
 - `Azure OpenAI` + `Cognitive Search`  
@@ -48,7 +54,9 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 🖥️ Student Grade Manager (PyQt6 App)  
-**Goal**: Desktop tool to manage student grades using Python and SQL.  
+A desktop GUI tool that allows users to add, update, and manage student grade data through a clean interface.  
+Built with PyQt6 and MySQL, the application demonstrates practical knowledge of database integration, UI development, and user input validation.
+
 **Skills Applied**:  
 - `GUI Design` with `PyQt6`  
 - `SQL` + `MySQL` backend operations  
@@ -59,7 +67,9 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 📦 Book Sales Management System  
-**Goal**: Simulate book sale transactions with backend logic.  
+A Python-based simulation of a retail book sales system with custom backend logic for inventory, transactions, and reporting.  
+Focuses on internal system structure using object-oriented design, file I/O, and data validation.
+
 **Skills Applied**:  
 - `Custom Data Structures`  
 - `Inventory Management Logic`  
@@ -69,7 +79,9 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 💼 Employee Management App (Java / JUnit)  
-**Goal**: Simulate job position lifecycle using enums and state transitions.  
+Simulates a hiring platform with position creation, application management, and lifecycle transitions using a state machine.  
+Implements Singleton and Command design patterns, along with extensive input validation and JUnit testing.
+
 **Skills Applied**:  
 - `Java` & `JUnit Testing`  
 - `Singleton` & `Command Design Patterns`  
@@ -80,7 +92,9 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ---
 
 ### 🧪 IT Ticket Manager (Java Team Project)  
-**Goal**: Create a category-driven ticketing system.  
+Built a ticketing system that categorizes and sorts IT support tickets using custom list structures and observer-based UI updates.  
+Focused on modular design, inheritance, and robust error handling in a team development environment.
+
 **Skills Applied**:  
 - `Observer Pattern`  
 - `Custom Data Structures (SortedList, SwapList)`  
