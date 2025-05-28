@@ -15,7 +15,12 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 - **[AI-Third-Party-Risk-Evaluator](https://github.com/robertpatel28/AI-Third-Party-Risk-Evaluator)** — Multi-agent AI system using Azure OpenAI + RAG to automate vendor risk assessments  
 - **[AI-Test-Grader](https://github.com/robertpatel28/AI-Test-Grader)** — GPT-based auto-grader with semantic search over course materials  
 - **[Student-Grade-Manager](https://github.com/robertpatel28/Student-Grade-Manager)** — PyQt6 desktop app to store/manage student grades  
-- **[Book-Sales-Management-System](https://github.com/robertpatel28/Book-Sales-Management-System)** — Inventory logic system built with custom Python structures  
+- **[Book-Sales-Management-System](https://github.com/robertpatel28/Book-Sales-Management-System)** — Inventory logic system built with custom Python structures
+- **WolfHire** — Java-based job application lifecycle manager using Singleton pattern, enums, and file I/O.  
+  _Private Repo – available on request_
+
+- **IT Ticket Manager** — Custom Java ticket system with Observer pattern and data structures.  
+  _Private Repo – available on request_
 
 ---
 
