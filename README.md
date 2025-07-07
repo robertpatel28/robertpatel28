@@ -138,7 +138,8 @@ Project focus: **designing and iterating on user-friendly applications** using P
 
 ## 📜 Certifications
 
-- 🧠 `Microsoft Azure AI-900` *(2025)*  
+- 🧠 'Microsoft Azire AI-102 [Azure AI Engineer Associate]' *(2025)*
+- 🧠 `Microsoft Azure AI-900 [Azure AI Fundamentals]` *(2025)*  
 - 🧭 `Truist Emerging Leadership Certification` *(2024)*
 
 ---
