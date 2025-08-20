@@ -45,6 +45,22 @@ This project highlights enterprise-level automation and AI integration in a real
 
 ---
 
+### 📊 BuddyTrade (PyQt6 + Azure AI Foundry)  
+A desktop stock portfolio tracker that combines traditional watchlists and real-time market data with AI-driven trade insights.  
+Built with Python, PyQt6, and SQLite for local persistence, BuddyTrade integrates **yfinance** for live stock data and **Azure AI Foundry** for natural language inputs, enabling users to query market conditions, analyze positions, and receive AI-assisted suggestions directly in the dashboard.  
+This project highlights the fusion of **backend engineering, GUI design, and applied AI for fintech applications**.  
+
+**Skills Applied**:  
+- `PyQt6` GUI development  
+- `SQLite` for persistent portfolio storage  
+- `yfinance` for real-time stock/market data  
+- `Azure AI Foundry` for AI-powered trade insights  
+- `MVC design pattern` for a scalable structure  
+- `Python (OOP, async)`  
+- `Data visualization & dashboard analytics`  
+
+---
+
 ### 🧠 AI-Test-Grader  
 A GPT-powered application that grades student exam responses using contextual course content.  
 Implemented in Jupyter using Azure Cognitive Search and OpenAI APIs, it semantically matches answers to indexed documents and generates explainable, standardized feedback.  
