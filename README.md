@@ -13,7 +13,8 @@ My work lives at the intersection of **AI, backend systems, and business strateg
 ## 🚀 Highlight Projects
 
 - **[AI-Third-Party-Risk-Evaluator](https://github.com/robertpatel28/AI-Third-Party-Risk-Evaluator)** — Multi-agent AI system using Azure OpenAI + RAG to automate vendor risk assessments  
-- **[AI-Test-Grader](https://github.com/robertpatel28/AI-Test-Grader)** — GPT-based auto-grader with semantic search over course materials  
+- **[AI-Test-Grader](https://github.com/robertpatel28/AI-Test-Grader)** — GPT-based auto-grader with semantic search over course materials
+- **[BuddyTrade](https://github.com/robertpatel28/BuddyTrade)** - Python/PyQt6 + SQLite stock portfolio tracker with watchlists, real-time data via yfinance, Azure AI-powered trade insights, and dashboard analytics.
 - **[Student-Grade-Manager](https://github.com/robertpatel28/Student-Grade-Manager)** — PyQt6 desktop app to store/manage student grades  
 - **[Book-Sales-Management-System](https://github.com/robertpatel28/Book-Sales-Management-System)** — Inventory logic system built with custom Python structures
 - **WolfHire** — Java-based job application lifecycle manager using Singleton pattern, enums, and file I/O.  
