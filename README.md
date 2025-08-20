@@ -112,7 +112,9 @@ Focused on modular design, inheritance, and robust error handling in a team deve
 ## 🎓 Academic Work @ NC State
 
 **BUS 442 – Information Systems Development**
+
 _Private Repo – available on request_
+
 Hands-on system development coursework from BUS 444 at NC State.  
 This repo showcases:
 - 🧩 PyQt6 GUI components and prototypes  
