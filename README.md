@@ -52,7 +52,7 @@ This project highlights the fusion of **backend engineering, GUI design, and app
 
 **Skills Applied**:  
 - `PyQt6` GUI development  
-- `SQLite` for persistent portfolio storage  
+- `Azure SQL Database` for persistent portfolio storage in the cloud
 - `yfinance` for real-time stock/market data  
 - `Azure AI Foundry` for AI-powered trade insights  
 - `MVC design pattern` for a scalable structure  
