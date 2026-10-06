@@ -1,5 +1,5 @@
 # Hey, I'm Robert 👋  
-🎓 Business + IT @ NC State | 🤖 AI & Backend Developer | 💻 Full-Stack Capable | 🔗 Bridging Tech & Strategy
+🎓 Business + IT @ NC State & MSCS @ Georgia Tech | 🤖 Backend SWE @ Fidelity Investments | 🔗 Bridging Tech & Strategy
 
 ---
 
