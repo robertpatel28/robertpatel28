@@ -5,7 +5,7 @@
 
 ## 💼 About Me
 
-I'm currently pursuing a B.S. in Business Administration with a concentration in Information Technology at **NC State University**.  
+I'm currently pursuing a Masters in Computer Science at **Georgia Tech** with a focus in Artificial Intelligence. I completed my B.S. in Business Administration with a concentration in Information Technology at **NC State University**.  
 My work lives at the intersection of **AI, backend systems, and business strategy**, and I thrive on turning real-world problems into smart, scalable software.
 
 ---
